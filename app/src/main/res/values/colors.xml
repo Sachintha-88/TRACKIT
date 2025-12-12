@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary (60%)-->
+    <color name="colorPrimary">#E3F2FD</color> <!-- Light Sky Blue -->
+
+    <!-- Secondary (30%)-->
+    <color name="colorSecondary">#90CAF9</color> <!-- Soft Pastel Blue -->
+
+    <!-- Accent (10%)-->
+    <color name="colorAccent">#2196F3</color> <!-- Classic Blue -->
+
+    <!-- Background and Text -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorTextPrimary">#0D47A1</color> <!-- Deep Navy-->
+    <color name="colorTextSecondary">#546E7A</color> <!-- Cool Gray -->
+</resources>
+

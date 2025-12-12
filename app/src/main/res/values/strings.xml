@@ -1,0 +1,63 @@
+<resources>
+    <!-- App Info -->
+    <string name="app_name">TRACKIT</string>
+
+    <!-- Common -->
+    <string name="note_past_dates">Note: You cannot select past dates for habits</string>
+
+    <!-- Dashboard / Navigation -->
+    <string name="nav_habit">Habit</string>
+    <string name="nav_mood">Mood</string>
+    <string name="nav_hygiene">Hygiene</string>
+    <string name="nav_chart">Chart</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Splash Screen -->
+    <string name="app_logo_desc">App Logo</string>
+
+    <!-- Add Habit Dialog -->
+    <string name="dialog_add_habit_title">Add New Habit</string>
+    <string name="hint_habit_name">Habit Name *</string>
+    <string name="hint_habit_emoji">Emoji *</string>
+    <string name="hint_habit_description">Description (Optional)</string>
+    <string name="frequency">Frequency</string>
+    <string name="rb_everyday">Everyday (Starting from today)</string>
+    <string name="rb_custom">Specific Date</string>
+
+    <!-- Mood Dialog -->
+    <string name="mood_reason_label">Reason:</string>
+    <string name="mood_reason_sample">Had a great day at work!</string>
+    <string name="mood_reason_hint">Tell us more...</string>
+    <string name="mood_reason_question">What\'\s the reason?</string>
+
+    <!-- Buttons -->
+    <string name="btn_save_habit">Save</string>
+    <string name="btn_cancel_habit">Cancel</string>
+    <string name="btn_delete_mood">Delete</string>
+    <string name="btn_close_mood">Close</string>
+    <string name="btn_change_photo">Change Photo</string>
+    <string name="btn_save_settings">Save Settings</string>
+    <string name="btn_edit">Edit</string>
+
+    <!-- Habit Card -->
+    <string name="habit_name_default">Habit Name</string>
+    <string name="habit_description_default">Habit Description</string>
+    <string name="habit_mark_complete">Mark as completed</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_username">Username</string>
+    <string name="hint_enter_name">Enter your name</string>
+    <string name="content_desc_profile_picture">Profile Picture</string>
+
+    <!-- Reminder Card -->
+    <string name="reminder_time">09:00</string>
+    <string name="content_desc_delete_reminder">Delete Reminder</string>
+    <string name="content_desc_clock_icon">Clock Icon</string>
+
+    <!-- Calendar / Date Item -->
+    <string name="date_day_sample">5</string>
+    <string name="date_month_sample">Oct</string>
+
+    <!-- Others -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
